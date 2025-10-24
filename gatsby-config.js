@@ -3,8 +3,9 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `gatsby-tutorial`,
-    siteUrl: `https://www.yourdomain.tld`,
+    title: `A More Fitting Title`,
+    siteUrl: `https://gkw-gatsby.netlify.app`,
+    description: `Gatsby Tutorial Site`,
   },
   plugins: [],
 }
